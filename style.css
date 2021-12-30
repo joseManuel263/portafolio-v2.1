@@ -62,7 +62,7 @@ h2,p{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    background-color:skyblue;
+    background-color: skyblue;
 }
 
 .item{
@@ -75,6 +75,7 @@ h2,p{
     left: 50%;
     transform: translate(-50%,-50%);
     opacity: 0;
+    color: black;
 }
 
 .item:hover p{
